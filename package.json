@@ -1,0 +1,30 @@
+{
+  "homepage": "http://Moamin-AbuEwaida.github.io/smooth-page-transitions",
+  "name": "smooth-page-transitions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moamin-AbuEwaida/smooth-page-transitions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moamin-AbuEwaida/smooth-page-transitions/issues"
+  },
+  "homepage": "https://github.com/Moamin-AbuEwaida/smooth-page-transitions#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gh-pages": "^3.2.3",
+    "gsap": "^3.9.1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
