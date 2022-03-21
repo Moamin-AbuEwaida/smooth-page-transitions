@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Moamin-AbuEwaida.github.io/smooth-page-transitions",
+  "homepage": "http://moamin-abuewaida.github.io/smooth-page-transitions",
   "name": "smooth-page-transitions",
   "version": "1.0.0",
   "description": "",
@@ -16,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/Moamin-AbuEwaida/smooth-page-transitions/issues"
   },
-  //"homepage": "https://github.com/Moamin-AbuEwaida/smooth-page-transitions#readme",
   "devDependencies": {
     "sass": "^1.49.9"
   },
