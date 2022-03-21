@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Moamin-AbuEwaida/smooth-page-transitions/issues"
   },
-  "homepage": "https://github.com/Moamin-AbuEwaida/smooth-page-transitions#readme",
+  //"homepage": "https://github.com/Moamin-AbuEwaida/smooth-page-transitions#readme",
   "devDependencies": {
     "sass": "^1.49.9"
   },
